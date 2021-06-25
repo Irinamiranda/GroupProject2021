@@ -15,6 +15,7 @@ public abstract class Account implements BaseInterestRate{
         String first;
 	int b;
 	int c;
+	int s;
 
 	
 	/*
