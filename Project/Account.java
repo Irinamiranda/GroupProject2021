@@ -32,7 +32,7 @@ public abstract class Account implements BaseInterestRate{
 	//Field declarations go here
 	
 	String name;
-	
+	String ssn;
 	
 	
 	/*Constructor to set all 5 fields
